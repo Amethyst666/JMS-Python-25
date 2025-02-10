@@ -4,6 +4,13 @@
 
 ---
 
+## Видео по настройке
+1. Регистрация в GitHub. Получение репозитория. https://disk.yandex.ru/i/QgRchUnez_uu9A
+2. Установка и настройка PyCharm. https://disk.yandex.ru/i/lM-IIM5xHQLASw
+3. Решение первых заданий. Запуск тестов и отправка. https://disk.yandex.ru/i/6Fd6lX6E6oQBOQ
+
+---
+
 ## 1. Регистрация в GitHub Classroom
 
 1. Перейдите по [ссылке](https://classroom.github.com/a/OHUGq76G), чтобы присоединиться к курсу в GitHub Classroom.
