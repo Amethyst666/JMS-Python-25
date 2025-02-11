@@ -11,6 +11,12 @@
 
 ---
 
+## Супер запасной вариант без GitHub и PyCharm
+
+Видео: https://disk.yandex.ru/i/je-1zxKPFQpj9A
+
+---
+
 ## 1. Регистрация в GitHub Classroom
 
 1. Перейдите по [ссылке](https://classroom.github.com/a/OHUGq76G), чтобы присоединиться к курсу в GitHub Classroom.
